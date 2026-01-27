@@ -1,48 +1,74 @@
-# 👋 Hey there! I'm **Manimaran K**  
+# 👋 Hey there! I'm **Manimaran K**
 
 🎯 **Aspiring Machine Learning & Quantum Computing Enthusiast**  
-💻 **B.Tech - Computer Science and Business Systems (CSBS)** student  
-📍 Passionate about solving problems, building intelligent systems, and exploring the quantum world of computation.  
+💻 **B.Tech – Computer Science and Business Systems (CSBS)** student  
+📍 Passionate about solving problems, building intelligent systems, and exploring the quantum world of computation.
 
 ---
 
 ## 🚀 About Me
 
-- 🔥 I love **coding**, learning new technologies, and improving every day through **daily commits** and **LeetCode challenges**.  
-- 💡 Currently mastering **AI, Machine Learning**, and **Quantum Computing** step by step.  
-- 🧠 I believe in consistency — coding **daily**, learning **constantly**, and sharing **open-source contributions**.  
-- 🌱 Learning never stops! Exploring **data science, neural networks, and quantum algorithms**.  
+- 🔥 I love **coding**, learning new technologies, and improving every day through **daily commits** and **LeetCode challenges**  
+- 💡 Currently mastering **AI, Machine Learning**, and **Quantum Computing** step by step  
+- 🧠 I believe in consistency — coding **daily**, learning **constantly**, and contributing to **open source**  
+- 🌱 Exploring **data science, neural networks, blockchain systems, and quantum algorithms**
 
 ---
 
-## 🧩 Competitive Programming & Live Streaks
+## 🧪 Featured Projects
 
-📈 **LeetCode Stats (Live):**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Manimaran-tech?theme=dark&font=Baloo%202&ext=heatmap)
+### 🔗 **YieldSense — Solana-Based CLMM Infrastructure**
+📌 *Blockchain · DeFi · Systems Engineering*  
+🔗 https://github.com/Manimaran-tech/Yeildsense
 
-📊 **LeetCode Summary:**  
-- 🧮 **Total Solved:** 50 / 3735  
-- 🟢 **Easy:** 39 🟡 **Medium:** 10 🔴 **Hard:** 1  
-- 🏅 **Rank:** 2,273,270  
-- 🔥 **Active Days:** 18 **Max Streak:** 8  
+- Built a **Solana-based Concentrated Liquidity Market Maker (CLMM)** system  
+- Implemented **liquidity position logic, pool management, and fee calculations**  
+- Focused on **on-chain efficiency, security considerations, and scalable design**  
+- Explored **AMM math, PDA-based vault structures, and Solana program architecture**
+
+**Tech:** Solana, Rust, DeFi primitives, CLMM design
 
 ---
 
+### 🛰️ **Satellite Orbital Reentry Prediction using PINNs**
+📌 *Machine Learning · Physics-Informed AI*  
+🔗 https://github.com/Manimaran-tech/pinn-orbital-reentry-prediction
 
-💪 **GitHub Stats (Live):**  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manimaran-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+- Developed a **Physics-Informed Neural Network (PINN)** to model **satellite orbital decay and reentry**  
+- Embedded **physical laws directly into the loss function** for better generalization  
+- Bridges **AI + aerospace systems** for real-world space applications
 
-🏆 **Top Languages (Live):**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manimaran-tech&layout=compact&theme=tokyonight&hide_border=true)
+**Tech:** Python, Pytorch, PINNs, Orbital Mechanics
 
-📈 **Contribution Graph:**  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manimaran-tech&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true)
+---
+
+### 📈 **Stock Market Analysis using LSTM (NVDA Case Study)**
+📌 *Deep Learning · Time Series Forecasting*  
+🔗 https://github.com/Manimaran-tech/Stock_Analysis_NVDA
+
+- Built an **LSTM-based deep learning model** for stock price trend analysis  
+- Performed **data preprocessing, sequence modeling, and evaluation**  
+- Focused on **temporal dependencies in financial data**
+
+**Tech:** Python, TensorFlow/Keras, LSTM, Pandas, NumPy
+
+---
+
+### 📊 **Machine Learning Projects using XGBoost**
+📌 *Supervised Learning · Practical ML Pipelines*  
+🔗 https://github.com/Manimaran-tech?tab=repositories
+
+- Implemented multiple **ML pipelines using XGBoost**  
+- Worked on **feature engineering, hyperparameter tuning, and model evaluation**  
+- Emphasis on **real-world ML workflows** over toy problems
+
+**Tech:** Python, XGBoost, Scikit-learn, Pandas
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🐍 Languages:
+### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,15 +76,16 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Tools & Platforms:
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🧠 Frameworks & Libraries:
+### 🧠 Frameworks & Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white)
@@ -67,24 +94,19 @@
 
 ---
 
-## 🏅 Current Stats
+## 🎯 Learning Goals (2025–2026)
 
-- 🧩 **LeetCode Problems Solved:** 50  
-- 🔥 **Daily Commit Streak:** Auto-updating live above  
-- 💼 **GitHub Contributions:** Auto-refreshed via stats card  
-- 🧠 **Learning Goals (2025):**
-  - Build my own **ML-powered Quantum Algorithm project**  
-  - Contribute to **Google Summer of Code (GSoC)**  
-  - Publish my first **research paper in AI + Quantum Computing**
+- Build a **production-grade ML-powered Quantum Computing project**  
+- Contribute to **Google Summer of Code (GSoC)**  
+- Publish a **research paper in AI + Quantum Computing**  
+- Deepen expertise in **Solana infrastructure and distributed systems**
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manimaran%20K-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manimaran-k-4703ab30b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Manimaran--tech-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Manimaran-tech/)
-[![Gmail](https://img.shields.io/badge/Email-manimaran230806@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manimaran230806@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/manimaran-k-4703ab30b/  
+- 🧩 LeetCode: https://leetcode.com/u/Manimaran-tech/  
+- 📧 Email: manimaran230806@gmail.com  
 
 ---
-
-⭐ **"Keep learning, keep coding, and keep evolving."** 🚀
