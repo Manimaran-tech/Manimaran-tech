@@ -96,7 +96,8 @@
 
 ## 🎯 Learning Goals (2025–2026)
 
-- Build a **production-grade ML-powered Quantum Computing project**  
+- Build a **production-grade ML-powered Quantum Computing project**
+- Preparing for **MLH Fellowship (2026)** 
 - Contribute to **Google Summer of Code (GSoC)**  
 - Publish a **research paper in AI + Quantum Computing**  
 - Deepen expertise in **Solana infrastructure and distributed systems**
