@@ -19,7 +19,7 @@
 
 ### 🔗 **YieldSense — Solana-Based CLMM Infrastructure**
 📌 *Blockchain · DeFi · Systems Engineering*  
-🔗 https://github.com/Manimaran-tech/Yeildsense
+🔗 https://github.com/Manimaran-tech/stable_yeildsense
 
 - Built a **Solana-based Concentrated Liquidity Market Maker (CLMM)** system  
 - Implemented **liquidity position logic, pool management, and fee calculations**  
