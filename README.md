@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Manimaran%20K&fontSize=50&fontAlignY=38&desc=AI%20%E2%80%A2%20Quantum%20Computing%20%E2%80%A2%20Embedded%20DSP%20%E2%80%A2%20Systems%20Engineering&descAlignY=62&descSize=19" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Manimaran%20K&fontSize=50&fontAlignY=38&desc=AI%20%E2%80%A2%20Quantum%20Computing%20%E2%80%A2%20Multi--Agent%20Systems%20%E2%80%A2%20Distributed%20Architectures&descAlignY=62&descSize=19" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hybrid+Quantum-Classical+%26+Biophysical+AI;Autonomous+Software-Defined+Sonar+%26+Acoustic+DSP;Multi-Agent+Autonomous+Governance+%26+Consensus;Solana+CLMM+DeFi+%26+High-Performance+Rust;Physics-Informed+Neural+Networks+(PINNs);Daily+Commits+%E2%80%A2+Relentless+Open-Source+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hybrid+Quantum-Classical+%26+Biophysical+AI;Multi-Agent+Autonomous+Governance+%26+Consensus;Solana+CLMM+DeFi+%26+High-Performance+Rust;Physics-Informed+Neural+Networks+(PINNs);Daily+Commits+%E2%80%A2+Relentless+Open-Source+Explorer" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -32,11 +32,11 @@ Degree: B.Tech in Computer Science & Business Systems (CSBS)
 Institution: Rajalakshmi Institute of Technology, Chennai, India
 Core_Domains:
   - Hybrid Quantum-Classical Algorithms (Qiskit VQE, Molecular Hamiltonians)
-  - Edge Embedded Systems & Acoustic DSP (STM32 HIL, WebSerial, Waveform Synthesis)
   - Multi-Agent Autonomous Systems & Financial Governance (Consensus, Audit Chains)
   - Physics-Informed Deep Learning (PINNs, Atmospheric Reentry Dynamics)
   - High-Throughput Distributed Systems (Solana CLMM, Rust)
-Mindset: "Engineering from foundational physical equations to silicon and distributed execution."
+  - Scalable Full-Stack Engineering (FastAPI, Next.js, Docker, Microservices)
+Mindset: "Engineering from foundational physical & quantum algorithms to scalable distributed architectures."
 ```
 
 ---
@@ -92,16 +92,6 @@ Mindset: "Engineering from foundational physical equations to silicon and distri
 
 ---
 
-### 🌊 [AquaChirp — Software-Defined Sonar & Acoustic Edge Intelligence](https://github.com/Manimaran-tech/aquachirp-sonar-transmitter)
-> **Autonomous Acoustic Edge Transmitter with STM32 Hardware-in-the-Loop & Adaptive DSP Waveform Synthesis**
-
-- **Real-Time Ocean Acoustics:** Implements the **Mackenzie (1981) 9-term sound speed equation** and **Francois-Garrison chemical absorption** for dynamic aquatic propagation compensation.
-- **Hardware-in-the-Loop (HIL):** Streams bi-directional circular DMA telemetry directly to an **STM32 Nucleo-F103RB** over the browser's native **WebSerial API** (115,200 baud).
-- **Quad Vector DSP Visualizer:** Hardware-accelerated 60 FPS oscilloscope, 32-bin real-time FFT spectrum analyzer, waterfall spectrogram, and matched filter pulse compressor ($\text{PSLR} > 22.3\text{ dB}$).
-- **Stack:** `STM32F103RB` · `Embedded C` · `WebSerial API` · `TypeScript` · `React 18` · `Vite` · `Tailwind CSS` · `DSP`
-
----
-
 ### 🏛️ [TrustVault — Institutional Multi-Agent Governance & Decision Platform](https://github.com/Manimaran-tech/trust-vault)
 > **Multi-Agent Financial Risk Governance with Real-Time Consensus & Cryptographic Audit Chains**
 
@@ -149,7 +139,6 @@ Mindset: "Engineering from foundational physical equations to silicon and distri
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -175,15 +164,6 @@ Mindset: "Engineering from foundational physical equations to silicon and distri
   <img src="https://img.shields.io/badge/XGBoost-15B8EC?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-Agent" />
   <img src="https://img.shields.io/badge/PINNs-2E7D32?style=for-the-badge&logo=affinity&logoColor=white" alt="PINNs" />
-</p>
-
-### 📡 Embedded Systems, Edge & DSP
-<p>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/WebSerial%20API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebSerial" />
-  <img src="https://img.shields.io/badge/Digital%20Signal%20Processing-008080?style=for-the-badge&logo=soundcharts&logoColor=white" alt="DSP" />
-  <img src="https://img.shields.io/badge/ARM%20Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
-  <img src="https://img.shields.io/badge/UART%20%2F%20DMA-555555?style=for-the-badge&logo=microchip&logoColor=white" alt="DMA" />
 </p>
 
 ### 🌐 Frontend & Modern Web Architecture
@@ -216,7 +196,7 @@ Mindset: "Engineering from foundational physical equations to silicon and distri
 
 - ⚛️ **Quantum-Classical Hybrid Algorithms:** Advancing VQE active-space formulations for complex biomolecular binding pocket calculations.
 - 📜 **Scientific Publications:** Authoring peer-reviewed works bridging Physics-Informed Neural Networks (PINNs) and quantum chemistry.
-- 🌊 **Edge Acoustic Telemetry:** Expanding autonomous multi-transducer beamforming and acoustic communications on embedded microcontrollers.
+- 🏛️ **Autonomous Governance & Multi-Agent Consensus:** Advancing verifiable LLM council architectures and cryptographic audit chains.
 - ⚡ **Ultra-Low Latency Systems:** Expanding high-frequency decentralized financial primitives on Solana.
 
 ---
