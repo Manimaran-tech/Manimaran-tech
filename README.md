@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Manimaran%20K&fontSize=50&fontAlignY=38&desc=AI%20%E2%80%A2%20Quantum%20Computing%20%E2%80%A2%20Multi--Agent%20Systems%20%E2%80%A2%20Distributed%20Architectures&descAlignY=62&descSize=19" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,21262d,238636,39d353&height=220&section=header&text=Manimaran%20K&fontSize=50&fontAlignY=38&desc=AI%20%E2%80%A2%20Quantum%20Computing%20%E2%80%A2%20Multi--Agent%20Systems%20%E2%80%A2%20Distributed%20Architectures&descAlignY=62&descSize=19" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hybrid+Quantum-Classical+%26+Biophysical+AI;Multi-Agent+Autonomous+Governance+%26+Consensus;Solana+CLMM+DeFi+%26+High-Performance+Rust;Physics-Informed+Neural+Networks+(PINNs);Daily+Commits+%E2%80%A2+Relentless+Open-Source+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Hybrid+Quantum-Classical+%26+Biophysical+AI;Multi-Agent+Autonomous+Governance+%26+Consensus;Solana+CLMM+DeFi+%26+High-Performance+Rust;Physics-Informed+Neural+Networks+(PINNs);Daily+Commits+%E2%80%A2+Relentless+Open-Source+Explorer" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -45,32 +45,32 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
+    <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%">
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manimaran-tech&theme=tokyo-night&area=true&hide_border=true&border_radius=8" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manimaran-tech&theme=github-dark&area=true&hide_border=true&border_radius=8" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manimaran-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manimaran-tech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Manimaran-tech&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Manimaran-tech&theme=github-dark-blue&hide_border=true" height="175" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manimaran-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manimaran-tech&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
   &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=Manimaran-tech&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" height="165" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manimaran-tech&theme=darkhub&no-frame=true&no-bg=true&margin_w=4" height="165" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -220,5 +220,5 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
   </p>
 
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,21262d,238636,39d353&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
