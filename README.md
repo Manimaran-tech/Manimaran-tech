@@ -41,7 +41,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 ---
 
-## 🧊 3D Contribution Ecosystem
+## 3D Contribution Ecosystem
 
 <div align="center">
   <picture>
@@ -75,9 +75,9 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 ---
 
-## 🚀 Featured Flagship Projects
+## Featured Flagship Projects
 
-### 🧬 [QuantumShield — Hybrid Quantum-Classical & ML Drug Discovery Ecosystem](https://github.com/Manimaran-tech/quantumshield)
+### [QuantumShield — Hybrid Quantum-Classical & ML Drug Discovery Ecosystem](https://github.com/Manimaran-tech/quantumshield)
 > **End-to-End *In Silico* Biophysical & Quantum Chemical Hit-to-Lead Screening Engine**
 
 - **Generative Chemistry:** 2-layer SMILES LSTM trained on ZINC chemical libraries for *de novo* synthetically accessible drug scaffold generation.
@@ -92,7 +92,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 ---
 
-### 🏛️ [TrustVault — Institutional Multi-Agent Governance & Decision Platform](https://github.com/Manimaran-tech/trust-vault)
+### [TrustVault — Institutional Multi-Agent Governance & Decision Platform](https://github.com/Manimaran-tech/trust-vault)
 > **Multi-Agent Financial Risk Governance with Real-Time Consensus & Cryptographic Audit Chains**
 
 - **Quantitative LLM Council:** Six specialized domain agents (Return, Liquidity, Cost, Volatility, Capital, Risk) executing quantitative checks and LLM-backed qualitative vetoes.
@@ -102,7 +102,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 ---
 
-### ⚡ [YieldSense — Solana-Based CLMM Infrastructure](https://github.com/Manimaran-tech/stable_yeildsense)
+### [YieldSense — Solana-Based CLMM Infrastructure](https://github.com/Manimaran-tech/stable_yeildsense)
 > **High-Performance Concentrated Liquidity Market Maker Protocol on Solana**
 
 - **Concentrated Liquidity Math:** Custom tick math and dynamic range-bounded liquidity provisioning algorithms for capital-efficient DEX architectures.
@@ -111,7 +111,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 ---
 
-### 🛰️ [PINN Orbital Reentry Prediction](https://github.com/Manimaran-tech/pinn-orbital-reentry-prediction)
+### [PINN Orbital Reentry Prediction](https://github.com/Manimaran-tech/pinn-orbital-reentry-prediction)
 > **Physics-Informed Neural Networks for Spacecraft Aerodynamic Decay Modeling**
 
 - **Physical Law Integration:** Direct embedding of upper atmospheric drag, orbital mechanics, and gravitational ODEs into neural loss gradients.
@@ -120,7 +120,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 ---
 
-### 📈 [Stock Market Time-Series Analysis (NVDA Case Study)](https://github.com/Manimaran-tech/Stock_Analysis_NVDA)
+### [Stock Market Time-Series Analysis (NVDA Case Study)](https://github.com/Manimaran-tech/Stock_Analysis_NVDA)
 > **Deep Learning Sequence Modeling for High-Volatility Financial Assets**
 
 - Built an LSTM recurrent neural network architecture designed to resolve complex long-range temporal dependencies in equity pricing.
@@ -129,11 +129,11 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -146,7 +146,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚛️ Quantum, Scientific & Biophysical AI
+### Quantum, Scientific & Biophysical AI
 <p>
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
   <img src="https://img.shields.io/badge/RDKit-11754C?style=for-the-badge&logo=molecule&logoColor=white" alt="RDKit" />
@@ -156,7 +156,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
   <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=python&logoColor=white" alt="SymPy" />
 </p>
 
-### 🧠 Deep Learning, Multi-Agent & Machine Learning
+### Deep Learning, Multi-Agent & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -166,7 +166,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
   <img src="https://img.shields.io/badge/PINNs-2E7D32?style=for-the-badge&logo=affinity&logoColor=white" alt="PINNs" />
 </p>
 
-### 🌐 Frontend & Modern Web Architecture
+### Frontend & Modern Web Architecture
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -176,7 +176,7 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### ⚙️ Systems, Cloud & Infrastructure
+### Systems, Cloud & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -192,17 +192,17 @@ Mindset: "Engineering from foundational physical & quantum algorithms to scalabl
 
 ---
 
-## 🎯 Research Horizons & Current Objectives (2025–2026)
+## Research Horizons & Current Objectives (2025–2026)
 
-- ⚛️ **Quantum-Classical Hybrid Algorithms:** Advancing VQE active-space formulations for complex biomolecular binding pocket calculations.
-- 📜 **Scientific Publications:** Authoring peer-reviewed works bridging Physics-Informed Neural Networks (PINNs) and quantum chemistry.
-- 🏛️ **Autonomous Governance & Multi-Agent Consensus:** Advancing verifiable LLM council architectures and cryptographic audit chains.
-- ⚡ **Ultra-Low Latency Systems:** Expanding high-frequency decentralized financial primitives on Solana.
+- **Quantum-Classical Hybrid Algorithms:** Advancing VQE active-space formulations for complex biomolecular binding pocket calculations.
+- **Scientific Publications:** Authoring peer-reviewed works bridging Physics-Informed Neural Networks (PINNs) and quantum chemistry.
+- **Autonomous Governance & Multi-Agent Consensus:** Advancing verifiable LLM council architectures and cryptographic audit chains.
+- **Ultra-Low Latency Systems:** Expanding high-frequency decentralized financial primitives on Solana.
 
 ---
 
 <div align="center">
-  <h2>📬 Connect With Me</h2>
+  <h2>Connect With Me</h2>
   <p>Always open to collaborating on high-impact research, open-source architectures, and cutting-edge engineering systems.</p>
 
   <p>
