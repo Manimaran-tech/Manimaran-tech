@@ -23,7 +23,7 @@
 
 ---
 
-### ⚡ Executive Summary
+### Executive Summary
 
 ```yaml
 Name: Manimaran K
